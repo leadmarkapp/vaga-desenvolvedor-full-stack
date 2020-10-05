@@ -16,14 +16,17 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 - Experiência com PHP e <strong>Laravel Framework</strong>
 - Experiência com MySQL e SQL
 - Domínio com Git
-- API Rest
+- Experiência com comunicação via API REST
+- Conhecimentos em <strong>Javascript</strong>
 - Node e <strong>React JS</strong>
-- CSS
+- Conhecimentos sólidos em HTML5 e CSS3
 - Práticas de documentação
 - Testes
 
 <strong>Diferenciais:</strong>
+
 - Cases / Aplicações desenvolvidas
+- Conhecimento de UI e boas noções de UX
 - React Native
 - Scrum
 
@@ -33,6 +36,13 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 - Concentração
 - Proatividade
 
+<strong>Locação e Contratação:</strong>
+
+- Presencial (possibilidade de ficar remoto alguns dias na semana)
+- Fortaleza, CE
+- CLT
+
+<br>
 <br>
 <strong>Ficou interessado?</strong><br>
 Entre em contato conosco enviando email para:<br>
