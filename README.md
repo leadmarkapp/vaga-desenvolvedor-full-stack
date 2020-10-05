@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoStack" src="https://app.leadmark.com.br/public/themes/now/img/logo-leadmark-app-512.png" width="150px" />
+    <img alt="GoStack" src="https://github.com/leadmarkapp/vaga-desenvolvedor-full-stack/blob/main/logo-leadmark-app-512.png?raw=true" width="150px" />
 </h1>
 
 <h3 align="center">
