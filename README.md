@@ -14,11 +14,13 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 
 - Experiência com desenvolvimento web
 - Experiência com PHP e <strong>Laravel Framework</strong>
+- Experiência com comunicação via API REST
 - Experiência com MySQL e SQL
 - Domínio com Git
-- Experiência com comunicação via API REST
-- Conhecimentos em <strong>Javascript</strong>
+- Docker
+- Conhecimentos sólidos em <strong>Javascript</strong>
 - Node e <strong>React JS</strong>
+- Micro serviços
 - Conhecimentos sólidos em HTML5 e CSS3
 - Práticas de documentação
 - Testes
@@ -28,6 +30,9 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 - Cases / Aplicações desenvolvidas
 - Conhecimento de UI e boas noções de UX
 - React Native
+- Noções de padrões e arquitetura de software
+- Arquitetura de microservices
+- Redis
 - Scrum
 
 <strong>Habilidades Interpessoais:</strong>
