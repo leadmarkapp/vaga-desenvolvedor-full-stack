@@ -33,7 +33,6 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 - Noções de padrões e arquitetura de software
 - Arquitetura de microservices
 - Redis
-- Scrum
 
 <strong>Habilidades Interpessoais:</strong>
 
