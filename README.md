@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Vaga | Desenvolvedor Full Stack
+  Vaga | Desenvolvedor
 </h3>
 
 <strong>O que buscamos?</strong>
@@ -43,9 +43,7 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 
 <strong>Locação e Contratação:</strong>
 
-- Presencial (possibilidade de ficar remoto alguns dias na semana)
-- Fortaleza, CE
-- CLT
+- Remoto
 
 <br>
 <br>
