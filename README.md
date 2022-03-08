@@ -15,7 +15,8 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 - Experiência com desenvolvimento web
 - Experiência com PHP e <strong>Laravel Framework</strong>
 - Experiência com comunicação via API REST
-- Experiência com MySQL e SQL
+- Experiência com GraphQL
+- Experiência com MySQL
 - Domínio com Git
 - Docker
 - Conhecimentos sólidos em <strong>Javascript</strong>
