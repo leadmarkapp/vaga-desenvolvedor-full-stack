@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Vaga | Desenvolvedor
+  Vaga | Desenvolvedor Full Stack
 </h3>
 
 <strong>O que buscamos?</strong>
