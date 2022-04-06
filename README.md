@@ -8,7 +8,7 @@
 
 <strong>O que buscamos?</strong>
 
-Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar desafios e desejam trabalhar em projetos de inovação.
+Buscamos pessoas com grande capacidade de raciocício lógico 🤓, capaz de aceitar desafios e desejam trabalhar em projetos de inovação. 🚀✈️🚀
 
 <strong>Habilidades Técnicas:</strong>
 
@@ -37,9 +37,9 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 
 <strong>Habilidades Interpessoais:</strong>
 
-- Raciocínio lógico 
-- Concentração
-- Proatividade
+- Raciocínio lógico 🤓
+- Comunicação 🗣️
+- Proatividade ☕☕☕...
 
 <strong>Locação e Contratação:</strong>
 
