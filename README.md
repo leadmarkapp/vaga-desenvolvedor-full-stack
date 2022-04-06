@@ -12,12 +12,12 @@ Buscamos pessoas com grande capacidade de raciocício lógico 🤓, capaz de ace
 
 <strong>Habilidades Técnicas:</strong>
 
-- Experiência com desenvolvimento web
+- Experiência com desenvolvimento web 👨‍💻
 - Experiência com PHP e <strong>Laravel Framework</strong>
 - Experiência com comunicação via API REST
 - Experiência com GraphQL
 - Experiência com MySQL
-- Domínio com Git
+- Domínio com Git :octocat:
 - Docker
 - Conhecimentos sólidos em <strong>Javascript</strong>
 - Node e <strong>React JS</strong>
